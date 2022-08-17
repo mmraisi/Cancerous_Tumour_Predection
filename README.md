@@ -10,6 +10,7 @@ lead to death (example heart attack from clogged arteries). The reason it is imp
 to classify tumours correctly is because generally it is expensive and risky to try to
 remove all tumours. In this problem, we want to predict whether a person’s tumour
 is cancerous in order to decide whether surgery is necessary or not.
+
 Features or Independent Variables:
 ID - Sample code number
 Clump Thickness: 1 - 10
@@ -21,5 +22,6 @@ Bare Nuclei: 1 - 10
 Bland Chromatin: 1 - 10
 Normal Nucleoli: 1 - 10
 Mitoses: 1 - 10
+
 Label or Dependent Variable:
 Class: (2 for benign, 4 for malignant)
