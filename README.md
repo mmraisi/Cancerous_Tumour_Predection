@@ -1,4 +1,4 @@
-# Cancerous_Tumour_Predection
+# Cancerous_Tumour_Prediction
 predict whether a person’s tumour is cancerous in order to decide whether surgery is necessary or not.
 
 The “cancer.csv” dataset deals with cancer patients. A tumour is a set of cells that
